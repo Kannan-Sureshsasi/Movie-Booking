@@ -2,23 +2,23 @@
 
 🔍 Overview:
 
-Welcome to the GitHub repository for the MovieBooking System—a cutting-edge web application developed using the ASP.NET framework and powered by C#, backed by SQL for robust data storage. The project's core aim is to offer a seamless solution for managing movie ticket bookings and seat selections, serving both users and administrators. 🎬🎟️
+🎬 Welcome to the MovieBooking System GitHub repository—a cutting-edge web app built with ASP.NET and C#, powered by SQL Server for robust data storage.
 
 ✨ Features:
 
-Effortless Movie Booking 🎥: The application is equipped with an array of features meticulously designed to simplify the movie booking journey. From selecting preferred showtimes to handpicking seats, it promises an intuitive experience for handling movie reservations.
-
-Real-Time Seat Selection ⚙️: Through real-time updates, the application dynamically exhibits available seats as users interact with diverse screens. This real-time functionality enriches user engagement and responsiveness, enabling smooth seat selection and modifications.
+Effortless Movie Booking: Simplify the movie booking journey, from showtime selection to seat picking.
+Real-Time Seat Selection: Dynamic seat updates for smooth user interactions.
 
 🤝 Contribution Guidelines:
 
-We extend a warm invitation for contributions that can elevate the MovieBooking System even higher! Whether you encounter issues or possess ingenious ideas to amplify the application's capabilities, please don't hesitate to create an issue or suggest a pull request. Your contributions play a pivotal role in refining this platform.
-
+Join with me in elevating the MovieBooking System! Create issues or pull requests to enhance the platform.
 👤 About the Author:
 
-It brings me great pleasure to introduce the MovieBooking System to you. I'm Kannan S., the visionary behind this creation and its continuous evolution. Let's connect on LinkedIn to foster an ongoing relationship! 📧🤝
+Meet Kannan S., the visionary behind this project. Connect on LinkedIn for ongoing collaboration!
+Explore and enjoy the cinematic experience!🍿🎦
 
-Thank you for exploring this repository. We're confident that you'll find this movie booking and seat selection application invaluable—an impressive addition to your repertoire of C#, ASP.NET, and SQL projects. Should you have any inquiries or feedback, please feel free to reach out. Enjoy the cinematic experience! 🍿🎦
+![Movie Template](https://github.com/Kannan-Sureshsasi/Movie-Booking/assets/138990724/89fb71f1-d136-491c-9f99-a838e5063844)
+![Movie Template](https://github.com/Kannan-Sureshsasi/Movie-Booking/assets/138990724/2897f035-7f70-408d-9a2c-df06143051aa)
+![Movie Template](https://github.com/Kannan-Sureshsasi/Movie-Booking/assets/138990724/d12a188a-752b-4b78-bf05-76e79bce9cde)
 
-![Mess Template](https://github.com/Kannan-Sureshsasi/Movie-Booking/assets/138990724/0cfd9578-f90f-495e-80dd-e374b94e8eb5)
-![Oder Template](https://github.com/Kannan-Sureshsasi/Movie-Booking/assets/138990724/d04a213c-e97a-4d32-bfe5-912478d42897)
+Please visit this repository for one more seat selection with an updated design ![Seat Booking Template]()
