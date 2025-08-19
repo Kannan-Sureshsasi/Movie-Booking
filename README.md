@@ -23,4 +23,4 @@ Explore and enjoy the cinematic experience!🍿🎦
 ![Movie Template](https://github.com/Kannan-Sureshsasi/Movie-Booking/assets/138990724/2897f035-7f70-408d-9a2c-df06143051aa)
 ![Movie Template](https://github.com/Kannan-Sureshsasi/Movie-Booking/assets/138990724/d12a188a-752b-4b78-bf05-76e79bce9cde)
 
-Please visit this repository for one more seat selection with an updated design Click Here 👉 [![Open](https://img.shields.io/badge/Watch-Contact--Form%20Repositories-blue)](https://github.com/Kannan-Sureshsasi/Seat-Booking) ![Seat Booking Template](https://github.com/Kannan-Sureshsasi/Seat-Booking/assets/138990724/1a1c7a87-d0b5-4b50-a1dd-6a4a6a661daf)
+Please visit this repository for one more seat selection with an updated design 👉 [![Open](https://img.shields.io/badge/Open-Contact--Form%20Repositories-blue)](https://github.com/Kannan-Sureshsasi/Seat-Booking) ![Seat Booking Template](https://github.com/Kannan-Sureshsasi/Seat-Booking/assets/138990724/1a1c7a87-d0b5-4b50-a1dd-6a4a6a661daf)
